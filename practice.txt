@@ -2,3 +2,5 @@
 누군가 작업을 했다면..?
 
 tag 
+
+commit --amend 써보자
