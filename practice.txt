@@ -4,3 +4,5 @@
 tag 
 
 commit --amend 써보자
+
+연습합니다
