@@ -8,3 +8,5 @@ commit --amend 써보자
 연습합니다
 
 branch A
+
+commit --amend 써보자
